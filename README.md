@@ -1,6 +1,5 @@
 # javascript-assignment
 # The page looks like this:
 
-!(https://user-images.githubusercontent.com/122965547/215761724-b54d33dc-23db-44ea-bba0-136450ffb022.jpg)
-
+![output](https://user-images.githubusercontent.com/122965547/215761821-1c0e3bbb-96d0-4827-ba38-e6a9eb93cfe4.jpg)
 
